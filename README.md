@@ -2,22 +2,22 @@
 ## 💀 Credit : [0xKayala](https://github.com/0xKayala/NucleiFuzzer)
 
 ### 🧰 Tools included:
-      - ParamSpider 
-      - Nuclei 
-      - Fuzzing Templates
+      ➊ ParamSpider 
+      ➋ Nuclei 
+      ➌ Fuzzing Templates
 
 ### ⚙️ Installation:
-    git clone https://github.com/0xKayala/NucleiFuzzer.git
-    cd NucleiFuzzer
-    sudo chmod +x install.sh
-    ./install.sh
-    nucleifuzzer -h
+    ⦿ git clone https://github.com/0xKayala/NucleiFuzzer.git
+    ⦿ cd NucleiFuzzer
+    ⦿ sudo chmod +x install.sh
+    ⦿ ./install.sh
+    ⦿ nucleifuzzer -h
     
 
 ### ❄️ Usage:
-    - After installation just type nucleifuzzer and hit Enter. it will ask for a domain.
-    - Enter the domain address
-    - Now it will collect parameters and then start fuzzing.
+    ⦿ After installation just type **nucleifuzzer** and hit Enter. it will ask for a domain.
+    ⦿ Enter the domain address
+    ⦿ Now it will collect parameters and then start fuzzing.
 
 ### 📷 Screenshots:
 

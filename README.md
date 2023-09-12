@@ -15,7 +15,7 @@
     
 
 ### ❄️ Usage:
-    ⦿ After installation just type **nucleifuzzer** and hit Enter. it will ask for a domain.
+    ⦿ After installation just type nucleifuzzer and hit Enter. it will ask for a domain.
     ⦿ Enter the domain address
     ⦿ Now it will collect parameters and then start fuzzing.
 

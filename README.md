@@ -2,9 +2,9 @@
 ## 💀 Credit : [0xKayala](https://github.com/0xKayala/NucleiFuzzer)
 
 ### 🧰 Tools included:
-      ➊ ParamSpider 
-      ➋ Nuclei 
-      ➌ Fuzzing Templates
+    ➊ ParamSpider 
+    ➋ Nuclei 
+    ➌ Fuzzing Templates
 
 ### ⚙️ Installation:
     ⦿ git clone https://github.com/0xKayala/NucleiFuzzer.git
